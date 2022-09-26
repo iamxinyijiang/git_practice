@@ -1,0 +1,11 @@
+#I want to learn *Markdown*
+
+## Because it is a useful tool
+
+To-do list
+==========
+-Do a **sample**
+-Read more docs
+-Practise
+
+~~strikeout~~
