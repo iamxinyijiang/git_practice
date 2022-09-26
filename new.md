@@ -1,8 +1,13 @@
 #This is a big title
+
 ##This is a small title
+
 ~~ strikeout~~
+
 **bold**
+
 *italic*
+
 - This is a unordered list
 - thishii
 - ffofpo
