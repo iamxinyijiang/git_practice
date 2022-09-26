@@ -1,6 +1,6 @@
-#This is a big title#
+# This is a big title
 
-##This is a small title##
+## This is a small title
 
 ~~strikeout~~
 
